@@ -1,0 +1,18 @@
+# Numerical computing
+numpy
+scipy
+pandas
+scikit-learn
+umap-learn
+# Plotting
+matplotlib
+plotly
+# Web app
+requests
+streamlit
+# Development tools
+pre-commit
+black
+ruff
+mypy
+pip-tools
